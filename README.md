@@ -1,6 +1,4 @@
-# sql-urban-data-project
-mySQL school project.
-# SQL Urban Data Project
+#SQL Urban Data Project
 
 This project simulates urban data using a relational database.
 
